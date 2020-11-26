@@ -43,7 +43,7 @@ This data set has systematic omissions and random data missing. Systematic omiss
 
 ### 7. What kinds of analysis would this support?
 
-First of all, this data set can support Murray Cox's concerns about illegal short-term rental and community gentrification research. The former can draw a general conclusion of the city by analyzing the fields of rental houses and the number of rental days per 365 days; the latter can combine other data to analyzes, such as census data, property market data, etc. In addition, the data set can also analyze the following issues: How many hosts have multiple houses to rent at the same time, and locations; the distribution of urban tourist hotspots and popular areas in the urban real estate market; the relationship between short-term rental housing pricing; relevance of tenant satisfaction to facilities and locations, etc.
+First of all, this data set can support Murray Cox's concerns about illegal short-term rental and community gentrification research. The former can draw a general conclusion of the city by analyzing the fields of rental houses and the number of rental days per 365 days; the latter can be combined other data to analyzes, uch as census data, property market data, etc. In addition, the data set can also analyze the following issues: How many hosts have multiple houses to rent at the same time, and locations; the distribution of urban tourist hotspots and popular areas in the urban real estate market; the relationship between rental housing pricing and its demand; relevance of tenant satisfaction to facilities and locations, etc.
 
 ---
 
@@ -55,4 +55,11 @@ Because it did not grab the text review data of the tenants, the data set was di
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
-_Your answer here_
+In the analysis mentioned in questions 7 and 8, all analyses are ethical except for the analysis of hosts’ properties and the comments of tenants. The research on landlord related issues will cause digital identity security problems. From the current data set, we can extract the hosts’ name, location, the number of properties under their control and other objective information, as well as the their self description text information. By combining the above information with other social platform data (Facebook, twitter), we can get the hosts’ accurate personal portraits, the study of communities and groups, is transformed into the disclosure of individual information, which destroys the balance between security and privacy [2] and is contrary to moral norms. By mining the text information of renters, the problem of data neutrality will be caused, Lauren Klein tells a story about a face recognition algorithm that is difficult to recognize black people because of the small proportion of black people in practice data [3]. The same is true for text information mining. Properties’ hosts can adjust the type of rental housing by analyzing the content that users are most concerned about. After that, the rental market will change accordingly, so that the orientation of old users will force new users to accept their tendency, which opposite to Feynman's view that the responsibility of science to society lies in the unpredictability of the open future [4].
+
+### Reference
+
+[1] Cox,M.( 2016 ). About Inside Airbnb. Retrieved from http://insideairbnb.com/about.html
+[2] Nicole Gurran & Peter Phibbs (2017) When Tourists Move In: How Should Urban Planners Respond to Airbnb?, Journal of the American Planning Association, 83:1, 80-92
+[3] Catherine D'Ignazio & Lauren Klein(2019) . Introduction. Retrieved from https://mitpressonpubpub.mitpress.mit.edu/pub/dgv16l22/release/6
+[4] Amoore, L. (2019) 'Doubt and the algorithm : on the partial accounts of machine learning.', Theory, culture society., 36 (6). pp. 147-169.
