@@ -60,6 +60,9 @@ In the analysis mentioned in questions 7 and 8, all analyses are ethical except 
 ### Reference
 
 [1] Cox,M.( 2016 ). About Inside Airbnb. Retrieved from http://insideairbnb.com/about.html
+
 [2] Nicole Gurran & Peter Phibbs (2017) When Tourists Move In: How Should Urban Planners Respond to Airbnb?, Journal of the American Planning Association, 83:1, 80-92
+
 [3] Catherine D'Ignazio & Lauren Klein(2019) . Introduction. Retrieved from https://mitpressonpubpub.mitpress.mit.edu/pub/dgv16l22/release/6
+
 [4] Amoore, L. (2019) 'Doubt and the algorithm : on the partial accounts of machine learning.', Theory, culture society., 36 (6). pp. 147-169.
