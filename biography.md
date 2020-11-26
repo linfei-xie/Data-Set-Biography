@@ -18,20 +18,20 @@ The data collected by the project are used to analyze which the phenomenon of il
 
 ### 3. How was it collected?
 
-The project collects all listing information available to users of the airbnb website. The data include the house location, price, number of bedrooms and bathrooms etc., and the list of all reviews from guests who have stayed at the property is also collected.
+The project collected all listing information available to users of the airbnb website. The data include the house location, price, number of bedrooms and bathrooms etc., and the list of all reviews from guests who have stayed at the property is also collected.
 
 ---
 
 ### 4. What useful information does it contain?
 
 
-There are mainly three types of data useful for analysis. The first type of data is related to rental houses, including the most important data - location:'latitude','longitude', rental houses type data:'property_type',rental price:'price', and houses’ facilities:'amenities','bathrooms_text','bedrooms'. The second category is the house host’s relevant data, including the house host’s location:’host_location’ and the total number of house of them:’host_total_listings_count’. The third category is the review data of rental houses, the evaluation level of rental houses is ‘review_scores_rating’, and the different scoring levels of each element such as ‘review_scores_cleanliness’, ‘review_scores_location’, etc.
+There are mainly three types of data useful for analysis. The first type of data is related to rental houses, including the most important coordinate data :'latitude','longitude', rental houses type data:'property_type',rental price:'price', and houses’ facilities:'amenities','bathrooms_text','bedrooms'. The second category is the house host’s relevant data, including the house host’s location:’host_location’ and the total number of house of them:’host_total_listings_count’. The third category is the review data of rental houses, the evaluation level of rental houses is ‘review_scores_rating’, and the different scoring levels of each element such as ‘review_scores_cleanliness’, ‘review_scores_location’, etc.
 
 ---
 
 ### 5. What useful information is it missing?
 
-The most serious missing fields include whether you have a house rental identity certificate: 'license'. In addition, there are many missing data in the fields related to the landlord, such as'host_about','host_response_rate'.
+The most serious missing fields include whether you have a house rental identity certificate: 'license'. In addition, there are many missing data in the fields related to the host, such as'host_about','host_response_rate' and reviews such as 'review_scores_rating'.
 
 ---
 
