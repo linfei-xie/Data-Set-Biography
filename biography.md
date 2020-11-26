@@ -57,6 +57,8 @@ Because it did not grab the text review data of the tenants, the data set was di
 
 In the analysis mentioned in questions 7 and 8, all analyses are ethical except for the analysis of hosts’ properties and the comments of tenants. The research on landlord related issues will cause digital identity security problems. From the current data set, we can extract the hosts’ name, location, the number of properties under their control and other objective information, as well as the their self description text information. By combining the above information with other social platform data (Facebook, twitter), we can get the hosts’ accurate personal portraits, the study of communities and groups, is transformed into the disclosure of individual information, which destroys the balance between security and privacy [2] and is contrary to moral norms. By mining the text information of renters, the problem of data neutrality will be caused, Lauren Klein tells a story about a face recognition algorithm that is difficult to recognize black people because of the small proportion of black people in practice data [3]. The same is true for text information mining. Properties’ hosts can adjust the type of rental housing by analyzing the content that users are most concerned about. After that, the rental market will change accordingly, so that the orientation of old users will force new users to accept their tendency, which opposite to Feynman's view that the responsibility of science to society lies in the unpredictability of the open future [4].
 
+---
+
 ### Reference
 
 [1] Cox,M.( 2016 ). About Inside Airbnb. Retrieved from http://insideairbnb.com/about.html
