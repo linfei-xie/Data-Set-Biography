@@ -37,8 +37,8 @@ The most serious missing fields include whether you have a house rental identity
 
 ### 6. To what extent is the data 'complete'?
 
-_Your answer here_
 This data set has systematic omissions and random data missing. Systematic omissions include the fact that the data set does not include the tenant’s text comment field; there is also no building number for rent. Because the coordinate data ('latitude','longitude') of InsideAirbnb is the approximate coordinates within a range of 150 meters[1] after fuzzy processing, without a virtual code, it is difficult to quantify housing market impacts. As for randomly missing data, this data set has a large number of NaN values, including random loss (MSR) and non-random loss (MNAR). The former appears irregular, such as in the fields of'host_location','bedrooms', etc.; The other is because of platform data feedback caused by comments-related fields and deliberately hiding fields such as'license' to avoid government supervision problems.
+
 ---
 
 ### 7. What kinds of analysis would this support?
